@@ -5426,7 +5426,7 @@ react-native-codegen@^0.0.17:
     jscodeshift "^0.13.1"
     nullthrows "^1.1.1"
 
-react-native-debugger@^1.1.0:
+react-native-debugger@^1.12.1:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/react-native-debugger/-/react-native-debugger-1.1.0.tgz#88ae36c229a7da6c8e97e0e98e366eca55d4736a"
   integrity sha512-ckFI3QztvmLUVE/TCA++V5apVWrsARejSXqSFdTtiKmTNOsHhF+KjiVzwBYk1TegiSCjDU0LHO4m5b+HjN0Ncg==
@@ -5571,6 +5571,11 @@ redux-create-reducer@^1.1.1:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/redux-create-reducer/-/redux-create-reducer-1.2.0.tgz#accdd7f36509b202c7602f14c0fb827a4d1c3dde"
   integrity sha512-H+bi4NCgw253xVVGHRnQQyWVkl2v0MDUiWRzFrSexcSgZ84JOa9Phsso1IRKKkrqGvBqQn2+oLZYdB3/qG99FQ==
+
+redux-devtools-extension@^2.13.9:
+  version "2.13.9"
+  resolved "https://registry.yarnpkg.com/redux-devtools-extension/-/redux-devtools-extension-2.13.9.tgz#6b764e8028b507adcb75a1cae790f71e6be08ae7"
+  integrity sha512-cNJ8Q/EtjhQaZ71c8I9+BPySIBVEKssbPpskBfsXqb8HJ002A3KRVHfeRzwRo6mGPqsm7XuHTqNSNeS1Khig0A==
 
 redux-logger@^3.0.6:
   version "3.0.6"
